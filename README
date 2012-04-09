@@ -1,1 +1,3 @@
-This Repo is a class project for Music Recommendation System in our MAchine Learning class. We plan create a Recommendation system where we first try to extract the features of a song using JMIR or Echonest API's and then using an unsupervised learning techniches to analyze the users space and create a visualization of the same.
+This Repo is a class project for Music Recommendation System in our MAchine Learning class. We plan create a
+Recommendation system where we first try to extract the features of a song using JMIR or Echonest API's and 
+then using an unsupervised learning techniches to analyze the users space and create a visualization of the same.
